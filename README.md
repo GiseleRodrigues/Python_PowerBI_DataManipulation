@@ -1,2 +1,2 @@
-# Python_PowerBI_DataManipulation
-Python_e_PowerBI_para_Manipulação_de_Dados
+# PythonPowerBI_DataManipulation
+Python e Power BI para Manipulação de Dados
